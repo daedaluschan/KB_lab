@@ -50,8 +50,7 @@ theme:
 plugins:
   - search
   - awesome-pages
-  - tags:
-      tags_file: tags.md
+  - tags
   - minify:
       minify_html: true
 
