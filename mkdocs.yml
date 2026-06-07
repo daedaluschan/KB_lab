@@ -1,8 +1,8 @@
 site_name: AI Instruction Library
 site_description: A reusable markdown instruction library for AI prompts, agents, coding standards, and workflow playbooks.
-site_url: https://<username>.github.io/<repository>/
-repo_url: https://github.com/<username>/<repository>
-repo_name: <username>/<repository>
+site_url: https://daedaluschan.github.io/KB_lab/
+repo_url: https://github.com/daedaluschan/KB_lab
+repo_name: daedaluschan/KB_lab
 edit_uri: edit/main/docs/
 
 strict: true
@@ -94,6 +94,6 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<username>/<repository>
+      link: https://github.com/daedaluschan/KB_lab
 
 copyright: Copyright &copy; 2026
