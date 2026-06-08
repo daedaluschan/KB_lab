@@ -21,6 +21,9 @@ When a user asks to add a new instruction library entry or provides instructions
 - Place the new Markdown entry under `docs/` unless the user specifies a more appropriate repository location.
 - Decide and fill in appropriate tags for the entry using the repository's existing tagging conventions.
 - Decide whether metadata is needed for the entry, and add relevant metadata when it improves discoverability, navigation, or maintenance.
+- Update the relevant MkDocs Awesome Pages navigation file, such as `docs/instructions/.pages`, so the new entry appears under the appropriate site navigation tab.
+- Update the relevant section index page, such as `docs/instructions/index.md`, to include a link and short description for the new entry when the section uses a curated list of available instructions.
+- Verify discoverability after building by checking that the generated site output includes the new page in navigation, the section index, or the sitemap as appropriate.
 - Preserve the user's intent while improving structure, headings, formatting, and consistency with the existing instruction library.
 
 ## MkDocs authoring notes
