@@ -12,6 +12,17 @@ This repository publishes a reusable Markdown instruction library with MkDocs Ma
 - Use `requirements.txt` for Python dependency changes.
 - The GitHub Pages workflow lives at `.github/workflows/pages.yml`; update it carefully because it controls production deployment.
 
+
+## Adding new instruction library entries
+
+When a user asks to add a new instruction library entry or provides instructions that should be added to the collection:
+
+- Convert the provided instruction content into clear, reusable Markdown suitable for the documentation collection.
+- Place the new Markdown entry under `docs/` unless the user specifies a more appropriate repository location.
+- Decide and fill in appropriate tags for the entry using the repository's existing tagging conventions.
+- Decide whether metadata is needed for the entry, and add relevant metadata when it improves discoverability, navigation, or maintenance.
+- Preserve the user's intent while improving structure, headings, formatting, and consistency with the existing instruction library.
+
 ## MkDocs authoring notes
 
 - Use MkDocs Material features already enabled in `mkdocs.yml`, including admonitions, collapsible details, tabs, task lists, and Mermaid diagrams.
