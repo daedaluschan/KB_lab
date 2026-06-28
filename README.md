@@ -1,6 +1,6 @@
-# AI Instruction Library
+# KB Lab Knowledge Base
 
-A reusable Markdown instruction library for AI prompts, agents, coding standards, and workflow playbooks. The library is published as a MkDocs Material site and deployed to GitHub Pages at <https://daedaluschan.github.io/KB_lab/>.
+A reusable Markdown knowledge base for AI instructions, workflow playbooks, and school information. The collection is published as a MkDocs Material site and deployed to GitHub Pages at <https://daedaluschan.github.io/KB_lab/>.
 
 ## What this repository contains
 
@@ -14,6 +14,8 @@ This repository is a documentation-first project. Source content lives in `docs/
 │   ├── instructions/
 │   │   ├── index.md
 │   │   └── reusable-instruction-template.md
+│   ├── Latymer/
+│   │   └── index.md
 │   └── assets/
 │       └── images/
 ├── .github/
@@ -26,13 +28,14 @@ This repository is a documentation-first project. Source content lives in `docs/
 
 ## Use cases
 
-Use this library to collect and publish reusable guidance such as:
+Use this knowledge base to collect and publish reusable guidance and reference information such as:
 
 - Prompt patterns for consistent AI output.
 - Agent operating procedures for repeatable autonomous workflows.
 - Coding standards for teams, languages, frameworks, or repositories.
 - Workflow playbooks for planning, implementation, review, and release.
 - Templates that make new instructions easier to write and maintain.
+- School information pages, starting with Latymer content under `docs/Latymer/`.
 
 ## Local development
 
@@ -65,8 +68,9 @@ Strict builds are preferred because they catch warnings that could break deploym
 
 ## Authoring guidance
 
-- Add reusable instruction content under `docs/`.
+- Add reusable instruction and school information content under `docs/`.
 - Start new instruction pages from `docs/instructions/reusable-instruction-template.md` when possible.
+- Add Latymer school information under `docs/Latymer/` and keep its section index current as the collection grows.
 - Use YAML front matter tags to improve discoverability through the generated tags page.
 - Keep `docs/tags.md` with the inline `<!-- material/tags -->` marker so the Material tags plugin can render the tag index.
 - Use the MkDocs Material features already enabled in `mkdocs.yml`, including admonitions, collapsible details, tabs, task lists, code blocks, and Mermaid diagrams.
@@ -76,7 +80,7 @@ Strict builds are preferred because they catch warnings that could break deploym
 
 Important project metadata is maintained in `mkdocs.yml`:
 
-- `site_name: AI Instruction Library`
+- `site_name: KB Lab Knowledge Base`
 - `site_url: https://daedaluschan.github.io/KB_lab/`
 - `repo_url: https://github.com/daedaluschan/KB_lab`
 - `repo_name: daedaluschan/KB_lab`
@@ -116,9 +120,9 @@ For workflow changes, also verify that custom tar/gzip artifact packaging has no
 
 ## Contributing content
 
-1. Create or update Markdown under `docs/`.
+1. Create or update Markdown under the relevant section of `docs/`, such as `docs/instructions/` or `docs/Latymer/`.
 2. Add useful tags in front matter.
-3. Keep pages focused on one reusable behavior, standard, or workflow.
+3. Keep pages focused on one reusable behavior, standard, workflow, or school information topic.
 4. Preview locally with `mkdocs serve`.
 5. Validate with `mkdocs build --strict`.
 6. Commit the Markdown and configuration changes, but do not commit generated `site/` output.
