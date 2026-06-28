@@ -2,29 +2,29 @@
 
 ## Repository purpose
 
-This repository publishes a reusable Markdown instruction library with MkDocs Material and GitHub Pages. Source documents live under `docs/`, and the site is configured by `mkdocs.yml`.
+This repository publishes a reusable Markdown knowledge base with MkDocs Material and GitHub Pages. It includes reusable instruction-library content and school information, with source documents under `docs/` and site configuration in `mkdocs.yml`.
 
 ## Working conventions
 
-- Keep reusable instruction content in Markdown under `docs/`.
+- Keep reusable instruction and school information content in Markdown under `docs/`.
 - Keep generated build output such as `site/` out of version control.
 - Prefer small, focused changes and run `mkdocs build --strict` before committing documentation or MkDocs configuration updates.
 - Use `requirements.txt` for Python dependency changes.
 - The GitHub Pages workflow lives at `.github/workflows/pages.yml`; update it carefully because it controls production deployment.
 
 
-## Adding new instruction library entries
+## Adding new knowledge base entries
 
-When a user asks to add a new instruction library entry or provides instructions that should be added to the collection:
+When a user asks to add a new instruction library entry, school information page, or other knowledge base content:
 
-- Convert the provided instruction content into clear, reusable Markdown suitable for the documentation collection.
-- Place the new Markdown entry under `docs/` unless the user specifies a more appropriate repository location.
+- Convert the provided content into clear, reusable Markdown suitable for the documentation collection.
+- Place the new Markdown entry under the relevant `docs/` section, such as `docs/instructions/` for instruction content or `docs/Latymer/` for Latymer school information, unless the user specifies a more appropriate repository location.
 - Decide and fill in appropriate tags for the entry using the repository's existing tagging conventions.
 - Decide whether metadata is needed for the entry, and add relevant metadata when it improves discoverability, navigation, or maintenance.
-- Update the relevant MkDocs Awesome Pages navigation file, such as `docs/instructions/.pages`, so the new entry appears under the appropriate site navigation tab.
-- Update the relevant section index page, such as `docs/instructions/index.md`, to include a link and short description for the new entry when the section uses a curated list of available instructions.
+- Update the relevant MkDocs Awesome Pages navigation file, such as `docs/.pages`, `docs/instructions/.pages`, or `docs/Latymer/.pages`, so the new entry appears under the appropriate site navigation tab.
+- Update the relevant section index page, such as `docs/instructions/index.md` or `docs/Latymer/index.md`, to include a link and short description for the new entry when the section uses a curated list of available content.
 - Verify discoverability after building by checking that the generated site output includes the new page in navigation, the section index, or the sitemap as appropriate.
-- Preserve the user's intent while improving structure, headings, formatting, and consistency with the existing instruction library.
+- Preserve the user's intent while improving structure, headings, formatting, and consistency with the existing knowledge base.
 
 ## MkDocs authoring notes
 

@@ -1,4 +1,5 @@
 nav:
   - Home: index.md
   - Instructions: instructions
+  - Latymer: Latymer
   - Tags: tags.md
