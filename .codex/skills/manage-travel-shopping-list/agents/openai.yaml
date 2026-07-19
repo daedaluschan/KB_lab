@@ -1,0 +1,4 @@
+interface:
+  display_name: "Travel Shopping List"
+  short_description: "Maintain the multi-destination shopping checklist"
+  default_prompt: "Use $manage-travel-shopping-list to add or update a trip shopping item."

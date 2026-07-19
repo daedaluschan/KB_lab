@@ -44,6 +44,16 @@ tags:
 | - [ ] | 韓國面膜綠白 | Mom | ![韓國面膜綠白](../assets/images/travel-shopping/a5db6a03-15f4-4388-b51d-b38405216ff7.jpeg){ width="160" } |
 | - [ ] | 防曬 | Mom | ![防曬](../assets/images/travel-shopping/a9b3b129-f4c3-4089-b232-ca5a46bbf2cc.jpeg){ width="160" } |
 
+## TBD
+
+| 已買 | 物品 | 擁有人 | 相片 |
+| --- | --- | --- | --- |
+| - [ ] | School bag | Jinny | ![School bag](../assets/images/travel-shopping/jinny-school-bag.jpeg){ width="160" } |
+| - [ ] | School shoes | Jinny | ![School shoes](../assets/images/travel-shopping/jinny-school-shoes.png){ width="160" } |
+| - [ ] | Pencil case | Jinny | ![Pencil case](../assets/images/travel-shopping/jinny-pencil-case.jpg){ width="160" } |
+| - [ ] | Bra | Jinny | ![Bra](../assets/images/travel-shopping/jinny-bra.jpg){ width="160" } |
+| - [ ] | Socks | Jinny | ![Socks](../assets/images/travel-shopping/jinny-socks.jpg){ width="160" } |
+
 ## 加入新項目
 
 - 喺適合嘅目的地表格新增一行。
