@@ -32,11 +32,11 @@ The trip shopping list is maintained in `docs/travel/hong-kong-japan-shopping-li
 
 When a user asks to add or change a shopping item:
 
-- Add or update a row in the table for the requested destination. Use the columns `已買`, `物品`, `擁有人`, and `相片`.
+- Add or update a row in the table for the requested destination. Use the bilingual columns `已買 / Purchased`, `物品 / Item`, `擁有人 / Owner`, and `相片 / Photo`.
 - New items are unchecked: use `- [ ]` in `已買`; mark a purchased item as `- [x]` only when the user says it has been bought.
 - Keep the owner value exactly as `Dad`, `Mom`, or `Jinny` unless the user asks to introduce another owner.
 - Store or use supplied images under `docs/assets/images/travel-shopping/` and embed them in the row using a relative path with `{ width="160" }`, for example `![item](../assets/images/travel-shopping/item.jpeg){ width="160" }`.
-- Place items whose purchase location is undecided in the `## TBD` table. `TBD` is a holding section, not a destination, so do not add it to the page title or Travel navigation.
+- Place items whose purchase location is undecided in the `## 待定 TBD` table. `TBD` is a holding section, not a destination, so do not add it to the page title or Travel navigation.
 - If a new destination is needed, add a matching `##` section and table. Update the page title, `docs/travel/.pages`, and `docs/travel/index.md` so the navigation and overview describe every destination.
 - Keep entries concise: use the item name provided by the user and do not add pricing, notes, or a completion date unless explicitly requested.
 

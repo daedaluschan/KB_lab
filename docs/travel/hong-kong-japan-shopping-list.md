@@ -12,9 +12,9 @@ tags:
 
 相片係可選項目；如要加入，請將相片放入 `docs/assets/images/travel-shopping/`，再喺相應欄位加入相對路徑。
 
-## 香港
+## 香港 Hong Kong
 
-| 已買 | 物品 | 擁有人 | 相片 |
+| 已買 / Purchased | 物品 / Item | 擁有人 / Owner | 相片 / Photo |
 | --- | --- | --- | --- |
 | - [ ] | Grise | Jinny | ![Grise shoes](../assets/images/travel-shopping/087f985d-ddd4-43aa-b11e-f006c911d8e0.jpeg){ width="160" } |
 | - [ ] | Uniquo underwear | Dad | ![Uniquo underwear](../assets/images/travel-shopping/dad-uniquo-underwear.png){ width="160" } |
@@ -23,10 +23,16 @@ tags:
 | - [ ] | G2000 office pants | Dad | ![G2000 office pants](../assets/images/travel-shopping/dad-g2000-office-pants.png){ width="160" } |
 | - [ ] | Pajamas | Dad | ![Pajamas](../assets/images/travel-shopping/dad-pajamas.png){ width="160" } |
 | - [ ] | USB charging plug/socket | Dad | ![USB charging plug/socket](../assets/images/travel-shopping/dad-usb-charging-plug.png){ width="160" } |
+| - [ ] | ballet Point shoes | Jinny | ![Ballet pointe shoes](../assets/images/travel-shopping/jinny-pointe-shoes.jpg){ width="160" } |
+| - [ ] | Grade 7 Sight Reading | Jinny | ![Grade 7 Sight Reading](../assets/images/travel-shopping/jinny-grade-7-sight-reading.jpg){ width="160" } |
+| - [ ] | Flute | Jinny | ![Flute](../assets/images/travel-shopping/jinny-flute.jpg){ width="160" } |
+| - [ ] | B仔飛碟機 | Mom | ![B仔飛碟機](../assets/images/travel-shopping/mom-bz-flying-disc.jpg){ width="160" } |
+| - [ ] | 淘寶風扇 | Mom | ![淘寶風扇](../assets/images/travel-shopping/mom-taobao-fan.jpg){ width="160" } |
+| - [ ] | 減肥粉 | Mom | ![減肥粉](../assets/images/travel-shopping/mom-slimming-powder.jpg){ width="160" } |
 
-## 日本
+## 日本 Japan
 
-| 已買 | 物品 | 擁有人 | 相片 |
+| 已買 / Purchased | 物品 / Item | 擁有人 / Owner | 相片 / Photo |
 | --- | --- | --- | --- |
 | - [ ] | Recolte | Mom | ![Recolte appliance](../assets/images/travel-shopping/20e74ca1-dda0-4e5b-b579-693111f17854.jpeg){ width="160" } |
 | - [ ] | 日本超市一樽野 | Mom | ![日本超市調味料](../assets/images/travel-shopping/7dc9756c-debf-435f-8ff9-ab6213561e10.jpeg){ width="160" } |
@@ -37,22 +43,26 @@ tags:
 | - [ ] | 紅包面膜 | Mom | ![紅包面膜](../assets/images/travel-shopping/e87e3790-874e-40ec-a57f-0bac011fbc24.jpeg){ width="160" } |
 | - [ ] | 玉子燒 | Mom | ![玉子燒](../assets/images/travel-shopping/f2d68037-c31f-40d5-9f23-6db796cd3be5.jpeg){ width="160" } |
 
-## 韓國
+## 韓國 South Korea
 
-| 已買 | 物品 | 擁有人 | 相片 |
+| 已買 / Purchased | 物品 / Item | 擁有人 / Owner | 相片 / Photo |
 | --- | --- | --- | --- |
 | - [ ] | 韓國面膜綠白 | Mom | ![韓國面膜綠白](../assets/images/travel-shopping/a5db6a03-15f4-4388-b51d-b38405216ff7.jpeg){ width="160" } |
 | - [ ] | 防曬 | Mom | ![防曬](../assets/images/travel-shopping/a9b3b129-f4c3-4089-b232-ca5a46bbf2cc.jpeg){ width="160" } |
 
-## TBD
+## 待定 TBD
 
-| 已買 | 物品 | 擁有人 | 相片 |
+| 已買 / Purchased | 物品 / Item | 擁有人 / Owner | 相片 / Photo |
 | --- | --- | --- | --- |
 | - [ ] | School bag | Jinny | ![School bag](../assets/images/travel-shopping/jinny-school-bag.jpeg){ width="160" } |
 | - [ ] | School shoes | Jinny | ![School shoes](../assets/images/travel-shopping/jinny-school-shoes.png){ width="160" } |
 | - [ ] | Pencil case | Jinny | ![Pencil case](../assets/images/travel-shopping/jinny-pencil-case.jpg){ width="160" } |
 | - [ ] | Bra | Jinny | ![Bra](../assets/images/travel-shopping/jinny-bra.jpg){ width="160" } |
 | - [ ] | Socks | Jinny | ![Socks](../assets/images/travel-shopping/jinny-socks.jpg){ width="160" } |
+| - [ ] | Watch | Jinny | ![Watch](../assets/images/travel-shopping/jinny-watch.jpg){ width="160" } |
+| - [ ] | Skincare | Jinny | ![Skincare](../assets/images/travel-shopping/jinny-skincare.jpg){ width="160" } |
+| - [ ] | Seiko metronome watch | Jinny | ![Seiko metronome watch](../assets/images/travel-shopping/jinny-seiko-metronome.jpg){ width="160" } |
+| - [ ] | Aural | Jinny | ![Aural](../assets/images/travel-shopping/jinny-aural.jpg){ width="160" } |
 
 ## 加入新項目
 
