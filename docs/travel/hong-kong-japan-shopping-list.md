@@ -26,7 +26,7 @@ tags:
 | - [ ] | ballet Point shoes | Jinny | ![Ballet pointe shoes](../assets/images/travel-shopping/jinny-pointe-shoes.jpg){ width="160" } |
 | - [ ] | Grade 7 Sight Reading | Jinny | ![Grade 7 Sight Reading](../assets/images/travel-shopping/jinny-grade-7-sight-reading.jpg){ width="160" } |
 | - [ ] | Flute | Jinny | ![Flute](../assets/images/travel-shopping/jinny-flute.jpg){ width="160" } |
-| - [ ] | B仔飛碟機 | Mom | ![B仔飛碟機](../assets/images/travel-shopping/mom-bz-flying-disc.jpg){ width="160" } |
+| - [ ] | V仔飛碟機 | Mom | ![V仔飛碟機](../assets/images/travel-shopping/mom-v-bz-fly-trap.jpg){ width="160" } |
 | - [ ] | 淘寶風扇 | Mom | ![淘寶風扇](../assets/images/travel-shopping/mom-taobao-fan.jpg){ width="160" } |
 | - [ ] | 減肥粉 | Mom | ![減肥粉](../assets/images/travel-shopping/mom-slimming-powder.jpg){ width="160" } |
 
