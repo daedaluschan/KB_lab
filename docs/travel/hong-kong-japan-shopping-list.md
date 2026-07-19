@@ -17,6 +17,12 @@ tags:
 | 已買 | 物品 | 擁有人 | 相片 |
 | --- | --- | --- | --- |
 | - [ ] | Grise | Jinny | ![Grise shoes](../assets/images/travel-shopping/087f985d-ddd4-43aa-b11e-f006c911d8e0.jpeg){ width="160" } |
+| - [ ] | Uniquo underwear | Dad | ![Uniquo underwear](../assets/images/travel-shopping/dad-uniquo-underwear.png){ width="160" } |
+| - [ ] | Uniquo pants | Dad | ![Uniquo pants](../assets/images/travel-shopping/dad-uniquo-pants.png){ width="160" } |
+| - [ ] | Uniquo short pants | Dad | ![Uniquo short pants](../assets/images/travel-shopping/dad-uniquo-short-pants.png){ width="160" } |
+| - [ ] | G2000 office pants | Dad | ![G2000 office pants](../assets/images/travel-shopping/dad-g2000-office-pants.png){ width="160" } |
+| - [ ] | Pajamas | Dad | ![Pajamas](../assets/images/travel-shopping/dad-pajamas.png){ width="160" } |
+| - [ ] | USB charging plug/socket | Dad | ![USB charging plug/socket](../assets/images/travel-shopping/dad-usb-charging-plug.png){ width="160" } |
 
 ## 日本
 
