@@ -16,13 +16,15 @@ tags:
 
 | 已買 | 物品 | 擁有人 | 相片 |
 | --- | --- | --- | --- |
-|  |  |  | — |
+| - [ ] | Grise | Jinny | ![Grise shoes](../assets/images/travel-shopping/087f985d-ddd4-43aa-b11e-f006c911d8e0.jpeg) |
 
 ## 日本
 
 | 已買 | 物品 | 擁有人 | 相片 |
 | --- | --- | --- | --- |
-|  |  |  | — |
+| - [ ] | Recolte | Mom | ![Recolte appliance](../assets/images/travel-shopping/20e74ca1-dda0-4e5b-b579-693111f17854.jpeg) |
+| - [ ] | 日本超市一樽野 | Mom | ![日本超市調味料](../assets/images/travel-shopping/7dc9756c-debf-435f-8ff9-ab6213561e10.jpeg) |
+| - [ ] | Muji | Mom | ![Muji moisturising cream](../assets/images/travel-shopping/95218388-a092-4a46-91ee-874fdff0bbd4.jpeg) |
 
 ## 加入新項目
 
