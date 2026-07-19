@@ -10,5 +10,5 @@ tags:
 
 ## Available travel notes
 
-- [香港／日本購物清單](hong-kong-japan-shopping-list.md): 記錄 Dad、Mom 同 Jinny 今次旅程要買嘅物品。
+- [香港／日本／韓國購物清單](hong-kong-japan-shopping-list.md): 記錄 Dad、Mom 同 Jinny 今次旅程要買嘅物品。
 - [Universal Studios Japan 一日攻略](universal-studios-japan-one-day-itinerary.md): 使用 Express Pass 8、10:30 入 SUPER NINTENDO WORLD 的大阪環球影城一日路線。

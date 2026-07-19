@@ -26,6 +26,19 @@ When a user asks to add a new instruction library entry, school information page
 - Verify discoverability after building by checking that the generated site output includes the new page in navigation, the section index, or the sitemap as appropriate.
 - Preserve the user's intent while improving structure, headings, formatting, and consistency with the existing knowledge base.
 
+## Maintaining the travel shopping list
+
+The trip shopping list is maintained in `docs/travel/hong-kong-japan-shopping-list.md`. It is a living checklist for purchases assigned to Dad, Mom, or Jinny, currently organised into Hong Kong, Japan, and South Korea sections.
+
+When a user asks to add or change a shopping item:
+
+- Add or update a row in the table for the requested destination. Use the columns `已買`, `物品`, `擁有人`, and `相片`.
+- New items are unchecked: use `- [ ]` in `已買`; mark a purchased item as `- [x]` only when the user says it has been bought.
+- Keep the owner value exactly as `Dad`, `Mom`, or `Jinny` unless the user asks to introduce another owner.
+- Store or use supplied images under `docs/assets/images/travel-shopping/` and embed them in the row using a relative path with `{ width="160" }`, for example `![item](../assets/images/travel-shopping/item.jpeg){ width="160" }`.
+- If a new destination is needed, add a matching `##` section and table. Update the page title, `docs/travel/.pages`, and `docs/travel/index.md` so the navigation and overview describe every destination.
+- Keep entries concise: use the item name provided by the user and do not add pricing, notes, or a completion date unless explicitly requested.
+
 ## MkDocs authoring notes
 
 - Use MkDocs Material features already enabled in `mkdocs.yml`, including admonitions, collapsible details, tabs, task lists, and Mermaid diagrams.
