@@ -153,6 +153,142 @@ tags:
 4. **睇 Parade / Show**
 5. **買手信**
 
+## 餐飲安排
+
+按照已選嘅 Express Pass 時間表，當日行程其實幾緊湊：
+
+| 時間 | 活動 |
+| --- | --- |
+| 10:30–12:00 | SUPER NINTENDO WORLD |
+| 13:50–14:20 | Flight of the Hippogriff |
+| 15:00–15:30 | Illumination’s Villain-Con Minion Blast |
+
+所以，**唔建議喺中午時段預約全服務餐廳**。最好喺主題區入面食，慳返行路時間，同時可以更投入園區氣氛。
+
+### 可使用 Priority Seating 嘅餐廳
+
+USJ 目前只有兩間餐廳提供 **Priority Seating**，而且呢個唔係保證訂枱。意思係你會喺所選時段附近，優先安排下一張可用枱；繁忙日子仍然可能要等一陣。
+
+Priority Seating 通常開放時間：
+
+- 到訪日前 **1 個月**
+- 日本時間 **11:00 JST**
+- 最遲可於到訪前 **24 小時**預約，視乎供應情況
+
+#### Park Side Grille ⭐⭐⭐⭐☆
+
+**位置：** New York Area
+
+**菜式：** steak、burgers、seafood、Western cuisine。
+
+**優點：**
+
+- USJ 園內氣氛最好嘅餐廳之一
+- 座位舒服
+- 適合特別場合
+- 可安排 birthday cakes
+
+**缺點：**
+
+- 離 SUPER NINTENDO WORLD 同 Harry Potter 區較遠
+- 會佔用較多行程時間
+
+**適合：** 大人想食一餐舒服午餐，或者當日行程比較慢。
+
+#### SAIDO ⭐⭐⭐⭐☆
+
+**位置：** New York Area
+
+**菜式：** Japanese set meals、sushi、tempura、seasonal dishes。
+
+**優點：**
+
+- 環境較安靜
+- 適合家庭
+- 日式餐品質素唔錯
+
+**缺點：**
+
+- 一樣需要離開主要遊樂區域
+
+**適合：** 想食日式料理，或者想搵一個安靜啲嘅用餐地方。
+
+### 建議餐飲路線
+
+#### 🍄 午餐：Kinopio’s Cafe / Toad Cafe ★★★★★
+
+**位置：** SUPER NINTENDO WORLD
+
+**建議時間：** **12:00–12:40**
+
+點解適合：
+
+- 啱啱完成 SUPER NINTENDO WORLD 三個 Express 項目
+- 唔需要離開 Nintendo World
+- 日本最受歡迎嘅主題餐廳之一
+
+建議餐點：
+
+- Mario Burger
+- Super Mushroom Soup
+- Question Block Tiramisu
+- Peach Cake
+- Mario drinks
+
+!!! tip "Kinopio’s Cafe 排隊策略"
+    好多遊客一入 SUPER NINTENDO WORLD 就會即刻排隊食 Kinopio’s Cafe。呢份行程先玩遊樂設施，所以大約中午先排，通常會比較合理。
+
+#### 🍺 下午小食：Three Broomsticks ★★★★★
+
+**位置：** Wizarding World of Harry Potter
+
+**建議時間：** **14:20–14:50**
+
+建議餐點：
+
+- Butterbeer
+- Roast Chicken Platter
+- Shepherd’s Pie
+- Fish & Chips
+
+可以享受：
+
+- Hogwarts Castle 景觀
+- Hogsmeade 氣氛
+- 好多影相機會
+
+#### 🍌 Minion Blast 後小食休息
+
+玩完 **Illumination’s Villain-Con Minion Blast** 之後，可以揀快手小食：
+
+- Popcorn
+- Minion cookies
+- Churros
+- Ice cream
+
+### 晚餐：Universal CityWalk Osaka
+
+主要指定時間項目喺下午較後時間已經完成，所以建議晚餐去園外 **Universal CityWalk Osaka** 食。
+
+優點：
+
+- 餐廳選擇更多
+- 性價比通常較好
+- 無園內咁迫
+- 唔需要趕返去玩指定時間項目
+
+建議餐廳：
+
+- Kua’Aina Burger
+- Botejyu
+- TGI Fridays
+- Shabu-Yo
+- Ganko Sushi
+- Starbucks，適合返去前坐低休息
+
+!!! recommendation "呢份行程嘅最佳餐飲建議"
+    呢個時間表建議唔去 Park Side Grille 同 SAIDO。午餐食 **Kinopio’s Cafe**，下午去 **Three Broomsticks** 飲 Butterbeer，喺 Minion Park 食小食，晚餐去 **Universal CityWalk Osaka**。
+
 ## 最重要提醒
 
 ### 10:30–12:00 唔好分心
