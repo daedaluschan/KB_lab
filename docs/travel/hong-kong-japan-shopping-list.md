@@ -27,6 +27,11 @@ tags:
 | - [ ] | ballet Point shoes | Jinny | ![Ballet pointe shoes](../assets/images/travel-shopping/jinny-pointe-shoes.jpg){ width="160" } |
 | - [ ] | Grade 7 Sight Reading | Jinny | ![Grade 7 Sight Reading](../assets/images/travel-shopping/jinny-grade-7-sight-reading.jpg){ width="160" } |
 | - [ ] | Flute | Jinny | ![Flute](../assets/images/travel-shopping/jinny-flute.jpg){ width="160" } |
+| - [ ] | Aural | Jinny | ![ABRSM Aural Training in Practice Grades 6–8](../assets/images/travel-shopping/jinny-aural.jpg){ width="160" } |
+| - [ ] | School shoes | Jinny | ![School shoes](../assets/images/travel-shopping/jinny-school-shoes.png){ width="160" } |
+| - [ ] | Socks | Jinny | ![Socks](../assets/images/travel-shopping/jinny-socks.jpg){ width="160" } |
+| - [ ] | Watch | Jinny | ![Watch](../assets/images/travel-shopping/jinny-watch.jpg){ width="160" } |
+| - [ ] | Bra | Jinny | ![Bra](../assets/images/travel-shopping/jinny-bra.jpg){ width="160" } |
 | - [ ] | V仔飛碟機 | Mom | ![V仔飛碟機 waffle toaster](../assets/images/travel-shopping/mom-v-bz-waffle-toaster.png){ width="160" } |
 | - [ ] | 淘寶風扇 | Mom | ![淘寶風扇](../assets/images/travel-shopping/mom-taobao-fan.jpg){ width="160" } |
 | - [ ] | 減肥粉 | Mom | ![減肥粉](../assets/images/travel-shopping/mom-slimming-powder.jpg){ width="160" } |
@@ -47,6 +52,8 @@ tags:
 | - [ ] | recolte Solo Blender Ciel 攪拌機 | Mom | ![recolte Solo Blender Ciel 攪拌機](../assets/images/travel-shopping/mom-recolte-mixer.png){ width="160" } |
 | - [ ] | 滑雪服裝 | Dad | ![滑雪服裝](../assets/images/travel-shopping/dad-ski-clothing.png){ width="160" } |
 | - [ ] | 兒童滑雪服裝 | Jinny | ![兒童滑雪服裝](../assets/images/travel-shopping/jinny-kids-ski-clothing.jpg){ width="160" } |
+| - [ ] | School bag | Jinny | ![School bag](../assets/images/travel-shopping/jinny-school-bag.jpeg){ width="160" } |
+| - [ ] | Pencil case | Jinny | ![Pencil case](../assets/images/travel-shopping/jinny-pencil-case.jpg){ width="160" } |
 | - [ ] | 梳 | Mom | ![梳](../assets/images/travel-shopping/e34c5c48-e742-43d6-8c1c-247d4fe9018b.jpeg){ width="160" } |
 | - [ ] | 紅包面膜 | Mom | ![紅包面膜](../assets/images/travel-shopping/e87e3790-874e-40ec-a57f-0bac011fbc24.jpeg){ width="160" } |
 | - [ ] | 玉子燒 | Mom | ![玉子燒](../assets/images/travel-shopping/f2d68037-c31f-40d5-9f23-6db796cd3be5.jpeg){ width="160" } |
@@ -57,20 +64,13 @@ tags:
 | --- | --- | --- | --- |
 | - [ ] | 韓國面膜綠白 | Mom | ![韓國面膜綠白](../assets/images/travel-shopping/a5db6a03-15f4-4388-b51d-b38405216ff7.jpeg){ width="160" } |
 | - [ ] | 防曬 | Mom | ![防曬](../assets/images/travel-shopping/a9b3b129-f4c3-4089-b232-ca5a46bbf2cc.jpeg){ width="160" } |
+| - [ ] | Skincare | Jinny | ![Skincare](../assets/images/travel-shopping/jinny-skincare.jpg){ width="160" } |
 
 ## 待定 TBD
 
 | 已買 / Purchased | 物品 / Item | 擁有人 / Owner | 相片 / Photo |
 | --- | --- | --- | --- |
-| - [ ] | School bag | Jinny | ![School bag](../assets/images/travel-shopping/jinny-school-bag.jpeg){ width="160" } |
-| - [ ] | School shoes | Jinny | ![School shoes](../assets/images/travel-shopping/jinny-school-shoes.png){ width="160" } |
-| - [ ] | Pencil case | Jinny | ![Pencil case](../assets/images/travel-shopping/jinny-pencil-case.jpg){ width="160" } |
-| - [ ] | Bra | Jinny | ![Bra](../assets/images/travel-shopping/jinny-bra.jpg){ width="160" } |
-| - [ ] | Socks | Jinny | ![Socks](../assets/images/travel-shopping/jinny-socks.jpg){ width="160" } |
-| - [ ] | Watch | Jinny | ![Watch](../assets/images/travel-shopping/jinny-watch.jpg){ width="160" } |
-| - [ ] | Skincare | Jinny | ![Skincare](../assets/images/travel-shopping/jinny-skincare.jpg){ width="160" } |
 | - [ ] | Seiko metronome watch | Jinny | ![Seiko metronome watch](../assets/images/travel-shopping/jinny-seiko-metronome.jpg){ width="160" } |
-| - [ ] | Aural | Jinny | ![ABRSM Aural Training in Practice Grades 6–8](../assets/images/travel-shopping/jinny-aural.jpg){ width="160" } |
 
 ## 加入新項目
 
