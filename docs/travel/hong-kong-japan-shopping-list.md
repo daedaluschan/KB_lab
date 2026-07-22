@@ -23,6 +23,7 @@ tags:
 | - [ ] | G2000 office pants | Dad | ![G2000 office pants](../assets/images/travel-shopping/dad-g2000-office-pants.png){ width="160" } |
 | - [ ] | Pajamas | Dad | ![Pajamas](../assets/images/travel-shopping/dad-pajamas.png){ width="160" } |
 | - [ ] | USB charging plug/socket | Dad | ![USB charging plug/socket](../assets/images/travel-shopping/dad-usb-charging-plug.png){ width="160" } |
+| - [ ] | Magnetic phone stand charger | Dad | ![Magnetic phone stand charger](../assets/images/travel-shopping/dad-magnetic-phone-stand-charger.jpg){ width="160" } |
 | - [ ] | ballet Point shoes | Jinny | ![Ballet pointe shoes](../assets/images/travel-shopping/jinny-pointe-shoes.jpg){ width="160" } |
 | - [ ] | Grade 7 Sight Reading | Jinny | ![Grade 7 Sight Reading](../assets/images/travel-shopping/jinny-grade-7-sight-reading.jpg){ width="160" } |
 | - [ ] | Flute | Jinny | ![Flute](../assets/images/travel-shopping/jinny-flute.jpg){ width="160" } |
