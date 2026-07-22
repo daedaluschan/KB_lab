@@ -35,6 +35,7 @@ When a user asks to add or change a shopping item:
 - Add or update a row in the table for the requested destination. Use the bilingual columns `已買 / Purchased`, `物品 / Item`, `擁有人 / Owner`, and `相片 / Photo`.
 - New items are unchecked: use `- [ ]` in `已買`; mark a purchased item as `- [x]` only when the user says it has been bought.
 - Keep the owner value exactly as `Dad`, `Mom`, or `Jinny` unless the user asks to introduce another owner.
+- For every new item that needs a photo, search the internet first for an accurate product image, preferably from the manufacturer or a reputable retailer. Use a neutral generated reference image only when no suitable image can be found or downloaded.
 - Store or use supplied images under `docs/assets/images/travel-shopping/` and embed them in the row using a relative path with `{ width="160" }`, for example `![item](../assets/images/travel-shopping/item.jpeg){ width="160" }`.
 - Place items whose purchase location is undecided in the `## 待定 TBD` table. `TBD` is a holding section, not a destination, so do not add it to the page title or Travel navigation.
 - If a new destination is needed, add a matching `##` section and table. Update the page title, `docs/travel/.pages`, and `docs/travel/index.md` so the navigation and overview describe every destination.

@@ -29,6 +29,7 @@ tags:
 | - [ ] | V仔飛碟機 | Mom | ![V仔飛碟機 waffle toaster](../assets/images/travel-shopping/mom-v-bz-waffle-toaster.png){ width="160" } |
 | - [ ] | 淘寶風扇 | Mom | ![淘寶風扇](../assets/images/travel-shopping/mom-taobao-fan.jpg){ width="160" } |
 | - [ ] | 減肥粉 | Mom | ![減肥粉](../assets/images/travel-shopping/mom-slimming-powder.jpg){ width="160" } |
+| - [ ] | 營養酵母粉 | Mom | ![營養酵母粉](../assets/images/travel-shopping/mom-hk-nutritional-yeast.jpg){ width="160" } |
 
 ## 日本 Japan
 
@@ -39,6 +40,12 @@ tags:
 | - [ ] | Muji | Mom | ![Muji moisturising cream](../assets/images/travel-shopping/95218388-a092-4a46-91ee-874fdff0bbd4.jpeg){ width="160" } |
 | - [ ] | 3COINS 製冰盒 | Mom | ![3COINS 製冰盒](../assets/images/travel-shopping/a02ca297-873b-4d55-8dd1-d039471dc3bc.jpeg){ width="160" } |
 | - [ ] | 富澤紅茶 | Mom | ![富澤紅茶](../assets/images/travel-shopping/a4a348a9-8b9b-44e8-af98-37acdccae632.jpeg){ width="160" } |
+| - [ ] | 星野製茶園 八女之華抹茶（綠茶／八女茶；味道溫和甘香，適合茶道薄茶） | Mom | ![星野製茶園 八女之華抹茶](../assets/images/travel-shopping/mom-hoshino-matcha-yamenohana.jpg){ width="160" } |
+| - [ ] | 腳貼 | Mom | ![日本腳貼](../assets/images/travel-shopping/mom-jp-foot-patch.jpg){ width="160" } |
+| - [ ] | THE GINZA 保濕乳液（150g） | Mom | ![THE GINZA 保濕乳液](../assets/images/travel-shopping/mom-ginza-skincare.jpg){ width="160" } |
+| - [ ] | recolte Solo Blender Ciel 攪拌機 | Mom | ![recolte Solo Blender Ciel 攪拌機](../assets/images/travel-shopping/mom-recolte-mixer.png){ width="160" } |
+| - [ ] | 滑雪服裝 | Dad | ![滑雪服裝](../assets/images/travel-shopping/dad-ski-clothing.png){ width="160" } |
+| - [ ] | 兒童滑雪服裝 | Jinny | ![兒童滑雪服裝](../assets/images/travel-shopping/jinny-kids-ski-clothing.jpg){ width="160" } |
 | - [ ] | 梳 | Mom | ![梳](../assets/images/travel-shopping/e34c5c48-e742-43d6-8c1c-247d4fe9018b.jpeg){ width="160" } |
 | - [ ] | 紅包面膜 | Mom | ![紅包面膜](../assets/images/travel-shopping/e87e3790-874e-40ec-a57f-0bac011fbc24.jpeg){ width="160" } |
 | - [ ] | 玉子燒 | Mom | ![玉子燒](../assets/images/travel-shopping/f2d68037-c31f-40d5-9f23-6db796cd3be5.jpeg){ width="160" } |
@@ -62,7 +69,7 @@ tags:
 | - [ ] | Watch | Jinny | ![Watch](../assets/images/travel-shopping/jinny-watch.jpg){ width="160" } |
 | - [ ] | Skincare | Jinny | ![Skincare](../assets/images/travel-shopping/jinny-skincare.jpg){ width="160" } |
 | - [ ] | Seiko metronome watch | Jinny | ![Seiko metronome watch](../assets/images/travel-shopping/jinny-seiko-metronome.jpg){ width="160" } |
-| - [ ] | Aural | Jinny | ![Aural](../assets/images/travel-shopping/jinny-aural.jpg){ width="160" } |
+| - [ ] | Aural | Jinny | ![ABRSM Aural Training in Practice Grades 6–8](../assets/images/travel-shopping/jinny-aural.jpg){ width="160" } |
 
 ## 加入新項目
 
