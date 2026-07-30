@@ -54,3 +54,7 @@ flowchart TD
 1. Add more instruction pages under `docs/instructions/` and school information under `docs/Latymer/`.
 2. Keep section indexes and `.pages` navigation files up to date as content grows.
 3. Validate changes with `mkdocs build --strict` before publishing.
+
+## 實用指南
+
+- [SAF 即發乾酵母選購指南](yeast.md)：按麵團糖分同麵包種類，揀選紅色或金色 SAF 即發乾酵母。
